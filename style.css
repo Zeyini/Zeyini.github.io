@@ -16,3 +16,9 @@ h1 {
   color: black;
   text-align: left;
 }
+h6 {
+  background-color: #6a5acd; 
+  color: #FFFFFF; 
+  padding: 5px; 
+  text-align: left; 
+}
