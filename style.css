@@ -1,8 +1,10 @@
-body { background-color: pink; font-family: Arial; Margin: 10% 10%; 
+body {
+  background-color: pink;
+  font-family: Arial;
+  margin: 10% 10%;
 }
 
-. exp-header {
-  Text-align: center 
-  text-transform: uppercase
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
 }
-
