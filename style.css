@@ -1,4 +1,4 @@
-body { background-color: #FFB6C1; font-family: Arial;font-size: 12px; Margin: 5% 10%;}
+body { background-color: #FFB6C1; font-family: Arial;font-size: 18px; Margin: 5% 10%;}
 . exp-header {
   Text-align: center 
   text-transform: uppercase
@@ -6,15 +6,14 @@ body { background-color: #FFB6C1; font-family: Arial;font-size: 12px; Margin: 5%
   background-color:gray;padding:30px;"
 }
 h4 {
-  font-size: 27px;
-  color: black;
-  text-align: left;
-}
-}
-h1 {
   font-size: 20px;
   color: black;
   text-align: left;
+}
+h1 {
+  font-size: 27px;
+  color: black;
+  text-align: center; }
 h5 {
   background-color: #6a5acd; 
   color: #FFFFFF; 
