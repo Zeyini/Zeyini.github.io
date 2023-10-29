@@ -12,6 +12,7 @@ h4 {
 }
 h1 {
   font-size: 35px;
+  font-family: "Lucida Console", "Courier New", monospace;
   font-variant: all-caps
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
   color: black;
