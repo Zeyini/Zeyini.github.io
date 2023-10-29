@@ -21,5 +21,6 @@ h1 {
 h5 {
   background-color: #6a5acd; 
   color: #FFFFFF; 
-  padding: 5px; 
+  height: 200px;
+  width: 50%;
   text-align: left; }
