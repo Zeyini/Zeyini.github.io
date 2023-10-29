@@ -20,7 +20,8 @@ h1 {
   padding:20px; }
 h5 {
   background-color: #6a5acd; 
-  color: #FFFFFF; 
+  color:  #FFFFFF; 
+  padding: 5px; 
+  text-align: left; 
   height: 200px;
-  width: 50%;
-  text-align: left; }
+  width: 50%; }
