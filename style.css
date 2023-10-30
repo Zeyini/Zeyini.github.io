@@ -8,7 +8,7 @@ h4 {
   font-size: 18px;
   color: black;
   text-align: left;
-  margin: 1;
+  margin: 0.5;
 }
 h1 {
   font-size: 45px;
@@ -22,14 +22,14 @@ h1 {
   margin: 0; }
 h5 {
  text-align: left;
-  margin: 1; 
+  margin: 0.5; 
   font-size: 18px;}
 h6 {
 text-align: left;
-margin: 1;
+margin: 0.5;
 font-size: 12px}
 audio {
   width: 10%;
   background-color: pink;
-  color: black;
+  color: pink;
 }
