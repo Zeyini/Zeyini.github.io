@@ -1,6 +1,6 @@
 body { background-color: #FFB6C1; font-family: "Times New Roman", Times, serif; Margin: 5% 5%; }
 . exp-header {
-  Text-align: Center;
+  Text-align: left;
   text-transform: uppercase;
   font-size: 30px;
 }
